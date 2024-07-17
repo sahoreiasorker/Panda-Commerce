@@ -1,0 +1,99 @@
+
+body{
+  font-family: "Poppins", sans-serif;
+}
+/* header CSS start */
+.section_padding{
+    padding: 50px 0px;
+}
+header{
+    background-color: #fff;
+}
+ul li{
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+    display: inline-block;
+}
+ul li a{
+    text-decoration: none;
+    padding: 10px 20px;
+    font-size: 15px;
+    text-transform: capitalize;
+    color: black;
+    font-weight: 600;
+    border: 2px solid transparent;
+    border-radius: 7px;
+}ul li a:hover{
+    color: orange;
+    border: 2px solid skyblue;
+}
+.logo_img img{
+    width: 100%;
+}
+.header_s_form a {
+    text-decoration: none;
+  }
+  .input-group {
+    bottom: 5px;
+  }
+/* header CSS end */
+/* carousel CSS start */
+.carousel_box{
+    background-color: #feeae9;
+    width: 100%;
+    height: 650px;
+    margin: 70px 0px;
+    }.carousel_dsc {
+    width: 60%;
+    margin: 160px 0px;
+    margin-left: 50px;
+  }
+  .carousel_dsc h2 {
+    font-size: 35px;
+    font-weight: 500;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+  }
+  .carousel_dsc p {
+    font-size: 15px;
+    opacity: .7;
+    margin-bottom: 20px;
+  }
+  .carousel_dsc h1 {
+    font-size: 40px;
+    font-weight: 700;
+    color: #ff2b7e;
+    text-transform: uppercase;
+    margin-bottom: 30px;
+  }
+  .carousel_dsc a {
+    text-decoration: none;
+    text-transform: uppercase;
+    background: #ff2b7e;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 6px;
+    font-size: 20px;
+    font-weight: 600;
+  }
+  .carousel_img img {
+    width: 100%;
+    height: 530px;
+    padding: 60px;
+    margin-top: 13px;
+  }
+  .carousel-indicators button {
+    width: 10px !important;
+    height: 12px !important;
+    border-radius: 15px !important;
+    background-color:   #fff !important;
+  }
+  .carousel-indicators .active {
+    background-color: #ff2b7e !important;
+    width: 38px !important;
+  }
+/* carousel CSS end */
+/* Categorie CSS start */
+
+/* Categorie CSS end */
